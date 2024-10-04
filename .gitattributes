@@ -1,1 +1,2 @@
-*.c++ linguist-language=c++
+*.docx linguist-language=c++
+*.mlx linguist-language=matlab
